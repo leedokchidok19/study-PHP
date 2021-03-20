@@ -1,10 +1,12 @@
 <html>
 <body>
 <?php
-# 상수는 관습적으로 대문자를 쓴다.
-define('TITLE', 'PHP Tutorial');
-echo TITLE;
-define('TITLE', 'JAVA Tutorial');
+# 변수에 담긴 데이터 형을 검사하고 변경하기
+$a = 100;
+echo gettype($a);
+settype($a, 'double');# 데이터 형식 변경
+echo '<br />';
+echo gettype($a);# 데이터 형식 출력
 ?>
 </body>
 </html>
