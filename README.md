@@ -7,7 +7,7 @@
 <details>
 <summary>PHP란?</summary>
 <div markdown="1">
-[PHP](https://ko.wikipedia.org/wiki/PHP)는 1995년 라스무스 러도프가 처음 만든 것으로   
+[PHP](https://ko.wikipedia.org/wiki/PHP) 는 1995년 라스무스 러도프가 처음 만든 것으로   
 PHP는 프로그래밍 언어의 일종이다.   
 원래는 동적 웹 페이지를 만들기 위해 설계되었으며   
 이를 구현하기 위해 PHP로 작성된 코드를   
@@ -19,8 +19,10 @@ PHP 처리 기능이 있는 웹 서버에서 해당 코드를 인식하여 작�
 <details>
 <summary>학습 강의</summary>
 <div markdown="1">
-😎[생활코딩 - PHP 기본 A 부터 Z 까지][https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-php-%EA%B0%95%EC%A2%8C/dashboard]
+😎[생활코딩 - PHP 기본 A 부터 Z 까지](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-php-%EA%B0%95%EC%A2%8C/dashboard)
    초급자용 강의
+[생활코딩 깃주소](https://github.com/egoing/phpeverybody)
+[생활코딩 사이트](https://opentutorials.org/course/62/5116)
 </div>
 </details>
 
